@@ -23,7 +23,7 @@ Nlw é um evento Programa exclusivo e gratuito, promovido pela Rocketseat para e
 
 ## 🚀 Tecnologias
 
-O habits é um app para ajudar a rastrear os hábitos.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
@@ -32,7 +32,7 @@ O habits é um app para ajudar a rastrear os hábitos.
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Habits é um app para ajudar a rastrear os hábitos.
 
 ## 🔖 Layout
 
